@@ -1,0 +1,364 @@
+,name,abbreviation,mascot,wins,losses,conference_name
+0,Abilene Christian,ACU,Wildcats,16.0,18.0,Western Athletic Conference
+1,Air Force,AF,Falcons,9.0,22.0,Mountain West Conference
+2,Akron,AKRN,Zips,24.0,11.0,Mid-American Conference
+3,Alabama,BAMA,Crimson Tide,25.0,12.0,Southeastern Conference
+4,Alabama A&M,AAMU,Bulldogs,12.0,23.0,Southwestern Athletic Conference
+5,Alabama State,ALST,Hornets,13.0,19.0,Southwestern Athletic Conference
+6,Albany,ALBY,Great Danes,8.0,23.0,America East Conference
+7,Alcorn State,ALCN,Braves,14.0,18.0,Southwestern Athletic Conference
+8,American University,AMER,Eagles,16.0,16.0,Patriot League
+9,Appalachian State,APP,Mountaineers,27.0,7.0,Sun Belt Conference
+10,Arizona,ARIZ,Wildcats,27.0,9.0,Big 12 Conference
+11,Arizona State,ARST,Sun Devils,14.0,18.0,Big 12 Conference
+12,Arkansas,ARK,Razorbacks,16.0,17.0,Southeastern Conference
+13,Arkansas State,ARKS,Red Wolves,20.0,17.0,Sun Belt Conference
+14,Arkansas-Pine Bluff,ARPB,Golde Lions,13.0,18.0,Southwestern Athletic Conference
+15,Army,ARMY,Black Knights,10.0,22.0,Patriot League
+16,Auburn,AUB,Tigers,27.0,8.0,Southeastern Conference
+17,Austin Peay,PEAY,Governors,19.0,16.0,ASUN Conference
+18,Ball State,BALL,Cardinals,15.0,16.0,Mid-American Conference
+19,Baylor,BAY,Bears,24.0,11.0,Big 12 Conference
+20,Bellarmine,BELL,Knights,8.0,23.0,ASUN Conference
+21,Belmont,BEL,Bruins,20.0,13.0,Missouri Valley Conference
+22,Bethune-Cookman,COOK,Wildcats,17.0,17.0,Southwestern Athletic Conference
+23,Binghamton,BING,Bearcats,15.0,15.0,America East Conference
+24,Boise State,BOISE,Broncos,22.0,11.0,Mountain West Conference
+25,Boston College,BC,Eagles,20.0,16.0,Atlantic Coast Conference
+26,Boston Univ.,BU,Terriers,16.0,17.0,Patriot League
+27,Bowling Green,BG,Falcons,20.0,14.0,Mid-American Conference
+28,Bradley,BRAD,Braves,23.0,12.0,Missouri Valley Conference
+29,Brown,BRWN,Bears,13.0,18.0,Ivy League
+30,Bryant,BRY,Bulldogs,20.0,13.0,America East Conference
+31,Bucknell,BUCK,Bison,14.0,19.0,Patriot League
+32,Buffalo,BUF,Bulls,4.0,27.0,Mid-American Conference
+33,Butler,BUT,Bulldogs,18.0,15.0,Big East Conference
+34,BYU,BYU,Cougars,23.0,11.0,Big 12 Conference
+35,Cal Irvine,UCI,Anteaters,24.0,10.0,Big West Conference
+36,Cal Poly,CP,Mustangs,4.0,28.0,Big West Conference
+37,California,CAL,Golden Bears,13.0,19.0,Atlantic Coast Conference
+38,California Baptist,CBU,Lancers,16.0,17.0,Western Athletic Conference
+39,Campbell,CAMP,Camels,14.0,18.0,Coastal Athletic Association
+40,Canisius,CAN,Golden Griffins,14.0,18.0,Metro Atlantic Athletic Conference
+41,Central Arkansas,UCA,Bears,9.0,23.0,ASUN Conference
+42,Central Connecticut,CCSU,Blue Devils,20.0,11.0,Northeast Conference
+43,Central Michigan,CMU,Chippewas,18.0,14.0,Mid-American Conference
+44,Charleston,CHLS,Cougars,27.0,8.0,Coastal Athletic Association
+45,Charleston Southern,CHSO,Buccaneers,10.0,20.0,Big South Conference
+46,Charlotte,CHAR,49ers,19.0,12.0,American Athletic Conference
+47,Chattanooga,CHAT,Mocs,21.0,12.0,Southern Conference
+48,Chicago State,CHIC,Cougers,13.0,19.0,Northeast Conference
+49,Cincinnati,CIN,Bearcats,22.0,15.0,Big 12 Conference
+50,Clemson,CLEM,Tigers,24.0,12.0,Atlantic Coast Conference
+51,Cleveland State,CLEV,Vikings,21.0,15.0,Horizon League
+52,Coastal Carolina,CCAR,Chanticleers,9.0,22.0,Sun Belt Conference
+53,Colgate,COLG,Raiders,25.0,10.0,Patriot League
+54,Colorado,COL,Buffaloes,26.0,11.0,Big 12 Conference
+55,Colorado State,CSU,Rams,25.0,11.0,Mountain West Conference
+56,Columbia,CLMB,Lions,13.0,14.0,Ivy League
+57,Coppin State,COPP,Eagles,2.0,27.0,Mid-Eastern Athletic Conference
+58,Cornell,COR,Big Red,22.0,8.0,Ivy League
+59,Creighton,CREI,Blue Jays,25.0,10.0,Big East Conference
+60,CSU Bakersfield,CSUB,Roadrunners,13.0,19.0,Big West Conference
+61,CSU Fullerton,CSF,Titals,14.0,18.0,Big West Conference
+62,CSU Northridge,CSUN,Matadors,19.0,15.0,Big West Conference
+63,Dartmouth,DART,Big Green,6.0,21.0,Ivy League
+64,Davidson,DAV,Wildcats,15.0,17.0,Atlantic 10 Conference
+65,Dayton,DAY,Flyers,25.0,8.0,Atlantic 10 Conference
+66,Delaware,DEL,Blue Hens,19.0,14.0,Coastal Athletic Association
+67,Delaware State,DSU,Hornets,15.0,19.0,Mid-Eastern Athletic Conference
+68,Denver,DEN,Pioneers,17.0,17.0,Summit League
+69,DePaul,DEP,Blue Demons,3.0,29.0,Big East Conference
+70,Detroit Mercy,DET,Titans,1.0,31.0,Horizon League
+71,Drake,DRKE,Bulldogs,28.0,7.0,Missouri Valley Conference
+72,Drexel,DREX,Dragons,20.0,12.0,Coastal Athletic Association
+73,Duke,DUKE,Blue Devils,27.0,9.0,Atlantic Coast Conference
+74,Duquesne,DUQ,Dukes,25.0,12.0,Atlantic 10 Conference
+75,East Carolina,ECAR,Pirates,15.0,18.0,American Athletic Conference
+76,East Tennessee State,ETSU,Buccaneers,19.0,16.0,Southern Conference
+77,Eastern Illinois,EIU,Panthers,14.0,18.0,Ohio Valley Conference
+78,Eastern Kentucky,EKY,Colonels,17.0,14.0,ASUN Conference
+79,Eastern Michigan,EMIC,Eagles,13.0,18.0,Mid-American Conference
+80,Eastern Washington,EWU,Eagles,21.0,11.0,Big Sky Conference
+81,Elon,ELON,Phoenix,13.0,19.0,Coastal Athletic Association
+82,Evansville,EVAN,Purple Aces,17.0,18.0,Missouri Valley Conference
+83,Fairfield,FAIR,Stags,24.0,13.0,Metro Atlantic Athletic Conference
+84,Fairleigh Dickinson,FDU,Knights,15.0,17.0,Northeast Conference
+85,Florida,UF,Gators,24.0,12.0,Southeastern Conference
+86,Florida A&M,FAMU,Rattlers,6.0,23.0,Southwestern Athletic Conference
+87,Florida Atlantic,FAU,Owls,25.0,9.0,American Athletic Conference
+88,Florida Gulf Coast,FGCU,Eagles,14.0,18.0,ASUN Conference
+89,Florida International,FIU,Golden Panthers,11.0,22.0,Conference USA
+90,Florida State,FSU,Seminoles,17.0,16.0,Atlantic Coast Conference
+91,Fordham,FOR,Rams,13.0,20.0,Atlantic 10 Conference
+92,Fresno State,FRSNO,Bulldogs,12.0,21.0,Mountain West Conference
+93,Furman,FUR,Paladins,17.0,16.0,Southern Conference
+94,Gardner Webb,WEBB,Bulldogs,17.0,16.0,Big South Conference
+95,George Mason,GMU,Patriots,20.0,12.0,Atlantic 10 Conference
+96,George Washington,GW,Colonials,16.0,16.0,Atlantic 10 Conference
+97,Georgetown,GTWN,Hoyas,9.0,23.0,Big East Conference
+98,Georgia,UGA,Bulldogs,20.0,17.0,Southeastern Conference
+99,Georgia Southern,GASO,Eagles,9.0,24.0,Sun Belt Conference
+100,Georgia State,GAST,Panthers,14.0,17.0,Sun Belt Conference
+101,Georgia Tech,GT,Yellow Jackets,14.0,18.0,Atlantic Coast Conference
+102,Gonzaga,GONZ,Bulldogs,27.0,8.0,West Coast Conference
+103,Grambling State,GRAM,Tigers,21.0,15.0,Southwestern Athletic Conference
+104,Grand Canyon,GCU,Lopes,30.0,5.0,Western Athletic Conference
+105,Green Bay,GB,Phoenix,18.0,14.0,Horizon League
+106,Hampton,HAMP,Pirates,9.0,24.0,Coastal Athletic Association
+107,Hartford,HART,Hawks,5.0,23.0,Division I Independents
+108,Harvard,HARV,Crimson,14.0,13.0,Ivy League
+109,Hawai'i,HAW,Warriors,20.0,14.0,Big West Conference
+110,High Point,HPU,Panthers,27.0,9.0,Big South Conference
+111,Hofstra,HOF,Pride,20.0,13.0,Coastal Athletic Association
+112,Holy Cross,HC,Crusaders,10.0,23.0,Patriot League
+113,Houston,HOU,Cougars,32.0,5.0,Big 12 Conference
+114,Houston Christian,HCU,Huskies,6.0,23.0,Southland Conference
+115,Howard,HOW,Bison,18.0,17.0,Mid-Eastern Athletic Conference
+116,Idaho,IDHO,Vandals,11.0,21.0,Big Sky Conference
+117,Idaho State,IDST,Bengals,14.0,20.0,Big Sky Conference
+118,Illinois,ILL,Fighting Illini,29.0,9.0,Big Ten Conference
+119,Illinois State,ILST,Redbirds,15.0,17.0,Missouri Valley Conference
+120,Incarnate Word,IW,Cardinals,8.0,23.0,Southland Conference
+121,Indiana,IND,Hoosiers,19.0,14.0,Big Ten Conference
+122,Indiana State,INST,Sycamores,32.0,7.0,Missouri Valley Conference
+123,Iona,IONA,Gaels,16.0,17.0,Metro Atlantic Athletic Conference
+124,Iowa,IOWA,Hawkeyes,19.0,15.0,Big Ten Conference
+125,Iowa State,ISU,Cyclones,29.0,8.0,Big 12 Conference
+126,IPFW,IPFW,Mastadons,23.0,13.0,Horizon League
+127,IUPUI,IUPUI,Jaguars,6.0,26.0,Horizon League
+128,Jackson State,JKST,Tigers,15.0,17.0,Southwestern Athletic Conference
+129,Jacksonville,JAC,Dolphins,16.0,17.0,ASUN Conference
+130,Jacksonville State,JVST,Gamecocks,14.0,18.0,Conference USA
+131,James Madison,JMU,Dukes,32.0,4.0,Sun Belt Conference
+132,Kansas,KU,Jayhawks,23.0,11.0,Big 12 Conference
+133,Kansas State,KSU,Wildcats,19.0,15.0,Big 12 Conference
+134,Kennesaw State,KENN,Owls,15.0,16.0,Conference USA
+135,Kent State,KENT,Golden Flashes,17.0,17.0,Mid-American Conference
+136,Kentucky,UK,Wildcats,23.0,10.0,Southeastern Conference
+137,La Salle,LAS,Explorers,16.0,17.0,Atlantic 10 Conference
+138,Lafayette,LAF,Leopards,11.0,21.0,Patriot League
+139,Lamar,LAM,Cardinals,19.0,14.0,Southland Conference
+140,Lehigh,LEH,Mountain Hawks,14.0,18.0,Patriot League
+141,Liberty,LIB,Flames,18.0,14.0,Conference USA
+142,Lipscomb,LIP,Bisons,20.0,12.0,ASUN Conference
+143,Little Rock,UALR,Trojans,21.0,13.0,Ohio Valley Conference
+144,Long Beach State,LBSU,49ers,21.0,15.0,Big West Conference
+145,Long Island University,LIU,Sharks,7.0,22.0,Northeast Conference
+146,Longwood,LONG,Lancers,21.0,14.0,Big South Conference
+147,Louisiana,ULL,Ragin' Cajuns,19.0,14.0,Sun Belt Conference
+148,Louisiana Tech,LT,Bulldogs,22.0,10.0,Conference USA
+149,Louisville,LOU,Cardinals,8.0,24.0,Atlantic Coast Conference
+150,Loyola Chicago,LCHI,Ramblers,23.0,10.0,Atlantic 10 Conference
+151,Loyola Maryland,L-MD,Greyhounds,7.0,25.0,Patriot League
+152,Loyola Marymount,LMU,Lions,12.0,19.0,West Coast Conference
+153,LSU,LSU,Tigers,17.0,16.0,Southeastern Conference
+154,Maine,MAINE,Black Bears,15.0,17.0,America East Conference
+155,Manhattan,MAN,Jaspers,7.0,23.0,Metro Atlantic Athletic Conference
+156,Marist,MRST,Red Foxes,18.0,13.0,Metro Atlantic Athletic Conference
+157,Marquette,MARQ,Golden Eagles,27.0,10.0,Big East Conference
+158,Marshall,MRSH,Thundering Herd,13.0,20.0,Sun Belt Conference
+159,Maryland,MARY,Terrapins,16.0,17.0,Big Ten Conference
+160,Massachusetts,UMASS,Minutemen,20.0,11.0,Atlantic 10 Conference
+161,McNeese State,MCNS,Cowboys,30.0,4.0,Southland Conference
+162,MD Eastern Shore,UMES,Hawks,9.0,20.0,Mid-Eastern Athletic Conference
+163,Memphis,MEM,Tigers,22.0,10.0,American Athletic Conference
+164,Mercer,MER,Bears,16.0,17.0,Southern Conference
+165,Mercyhurst,MERC,Lakers,5.0,5.0,Northeast Conference
+166,Merrimack,MER,Warriors,21.0,12.0,Metro Atlantic Athletic Conference
+167,Miami (FL),MIAMI,Hurricanes,15.0,17.0,Atlantic Coast Conference
+168,Miami (OH),M-OH,Redhawks,15.0,17.0,Mid-American Conference
+169,Michigan,MICH,Wolverines,8.0,24.0,Big Ten Conference
+170,Michigan State,MSU,Spartans,20.0,15.0,Big Ten Conference
+171,Middle Tennessee,MTSU,Blue Raiders,14.0,19.0,Conference USA
+172,Milwaukee,MILW,Panthers,20.0,15.0,Horizon League
+173,Minnesota,MINN,Golden Gophers,19.0,15.0,Big Ten Conference
+174,Mississippi State,MSST,Bulldogs,21.0,14.0,Southeastern Conference
+175,Mississippi Valley State,MVSU,Delta Devils,1.0,30.0,Southwestern Athletic Conference
+176,Missouri,MIZZ,Tigers,8.0,24.0,Southeastern Conference
+177,Missouri State,MOST,Bears,17.0,16.0,Missouri Valley Conference
+178,Monmouth,MONM,Hawks,18.0,15.0,Coastal Athletic Association
+179,Montana,MONT,Grizzlies,24.0,12.0,Big Sky Conference
+180,Montana State,MTST,Bobcats,17.0,18.0,Big Sky Conference
+181,Morehead State,MORE,Eagles,26.0,9.0,Ohio Valley Conference
+182,Morgan State,MORG,Bears,11.0,20.0,Mid-Eastern Athletic Conference
+183,Mt. St. Mary's,MSM,Mountaineers,13.0,19.0,Metro Atlantic Athletic Conference
+184,Murray State,MURR,Racers,12.0,20.0,Missouri Valley Conference
+185,Navy,NAVY,Midshipmen,13.0,18.0,Patriot League
+186,NC State,NCSU,Wolfpack,26.0,15.0,Atlantic Coast Conference
+187,Nebraska,NEB,Cornhuskers,23.0,11.0,Big Ten Conference
+188,Nebraska Omaha,OMA,Mavericks,15.0,18.0,Summit League
+189,Nevada,NEV,Wolf Pack,26.0,8.0,Mountain West Conference
+190,New Hampshire,UNH,Wildcats,16.0,15.0,America East Conference
+191,New Mexico,UNM,Lobos,26.0,10.0,Mountain West Conference
+192,New Mexico State,NMST,Aggies,13.0,19.0,Conference USA
+193,New Orleans,NO,Privateers,10.0,23.0,Southland Conference
+194,Niagara,NIAG,Purple Eagles,16.0,16.0,Metro Atlantic Athletic Conference
+195,Nicholls State,NICH,Colonels,20.0,14.0,Southland Conference
+196,NJIT,NJIT,Highlanders,7.0,21.0,America East Conference
+197,Norfolk State,NORF,Spartans,24.0,11.0,Mid-Eastern Athletic Conference
+198,North Alabama,UNA,Lions,15.0,17.0,ASUN Conference
+199,North Carolina,NC,Tar Heels,29.0,8.0,Atlantic Coast Conference
+200,North Carolina A&T,NCAT,Aggies,7.0,25.0,Coastal Athletic Association
+201,North Carolina Central,NCCU,Eagles,18.0,13.0,Mid-Eastern Athletic Conference
+202,North Dakota,UND,Fighting Hawks,18.0,14.0,Summit League
+203,North Dakota State,NDSU,Bison,15.0,17.0,Summit League
+204,North Florida,UNF,Ospreys,16.0,16.0,ASUN Conference
+205,North Texas,UNT,Mean Green,19.0,15.0,American Athletic Conference
+206,Northeastern,NE,Huskies,12.0,20.0,Coastal Athletic Association
+207,Northern Arizona,NAU,Lumberjacks,14.0,19.0,Big Sky Conference
+208,Northern Colorado,UNCO,Bears,19.0,14.0,Big Sky Conference
+209,Northern Illinois,NIU,Huskies,11.0,20.0,Mid-American Conference
+210,Northern Iowa,UNI,Panthers,19.0,14.0,Missouri Valley Conference
+211,Northern Kentucky,NKU,Norse,18.0,15.0,Horizon League
+212,Northwestern,NW,Wildcats,22.0,12.0,Big Ten Conference
+213,Northwestern State,NWST,Demons,9.0,23.0,Southland Conference
+214,Notre Dame,NDAME,Fighting Irish,13.0,20.0,Atlantic Coast Conference
+215,Oakland,OAK,Golden Grizzlies,24.0,12.0,Horizon League
+216,Ohio,OHIO,Bobcats,20.0,13.0,Mid-American Conference
+217,Ohio State,OHST,Buckeyes,22.0,14.0,Big Ten Conference
+218,Oklahoma,OKLA,Sooners,20.0,12.0,Southeastern Conference
+219,Oklahoma State,OKST,Cowboys,12.0,20.0,Big 12 Conference
+220,Old Dominion,ODU,Monarchs,7.0,25.0,Sun Belt Conference
+221,Ole Miss,MISS,Rebels,20.0,12.0,Southeastern Conference
+222,Oral Roberts,ORU,Golden Eagles,12.0,19.0,Summit League
+223,Oregon,OREG,Ducks,24.0,12.0,Big Ten Conference
+224,Oregon State,ORST,Beavers,13.0,19.0,West Coast Conference
+225,Pacific,PAC,Boxers,6.0,26.0,West Coast Conference
+226,Penn State,PSU,Nittany Lions,16.0,17.0,Big Ten Conference
+227,Pennsylvania,PENN,Quakers,11.0,18.0,Ivy League
+228,Pepperdine,PEPP,Waves,13.0,20.0,West Coast Conference
+229,Pittsburgh,PITT,Panthers,22.0,11.0,Atlantic Coast Conference
+230,Portland,PORT,Pilots,12.0,21.0,West Coast Conference
+231,Portland State,PRST,Vikings,17.0,15.0,Big Sky Conference
+232,Prairie View A&M,PV,Prairie View,10.0,21.0,Southwestern Athletic Conference
+233,Presbyterian College,PRE,Blue Hose,14.0,19.0,Big South Conference
+234,Princeton,PRIN,Tigers,24.0,5.0,Ivy League
+235,Providence,PROV,Friars,21.0,14.0,Big East Conference
+236,Purdue,PURD,Boilermakers,34.0,5.0,Big Ten Conference
+237,Quinnipiac,QUIN,Bobcats,24.0,10.0,Metro Atlantic Athletic Conference
+238,Radford,RAD,Highlanders,16.0,17.0,Big South Conference
+239,Rhode Island,URI,Rams,12.0,20.0,Atlantic 10 Conference
+240,Rice,RICE,Owls,11.0,21.0,American Athletic Conference
+241,Richmond,RICH,Spiders,23.0,10.0,Atlantic 10 Conference
+242,Rider,RID,Broncs,15.0,17.0,Metro Atlantic Athletic Conference
+243,Robert Morris,RMU,Colonials,10.0,22.0,Horizon League
+244,Rutgers,RUTG,Scarlet Knights,15.0,17.0,Big Ten Conference
+245,Sacramento State,SAC,Hornets,10.0,24.0,Big Sky Conference
+246,Sacred Heart,SHU,Pioneers,16.0,16.0,Metro Atlantic Athletic Conference
+247,Saint Peter's,SPU,Peacocks,19.0,14.0,Metro Atlantic Athletic Conference
+248,Sam Houston State,SHSU,Bearkats,21.0,12.0,Conference USA
+249,Samford,SAM,Bulldogs,29.0,6.0,Southern Conference
+250,San Diego,USD,Toreros,18.0,15.0,West Coast Conference
+251,San Diego State,SDSU,Aztecs,26.0,11.0,Mountain West Conference
+252,San Francisco,SF,Dons,23.0,11.0,West Coast Conference
+253,San José State,SJSU,Spartans,9.0,23.0,Mountain West Conference
+254,Santa Clara,SCU,Broncos,20.0,13.0,West Coast Conference
+255,SC State,SCST,Bulldogs,14.0,18.0,Mid-Eastern Athletic Conference
+256,SE Louisiana,SELA,Lions,15.0,17.0,Southland Conference
+257,SE Missouri State,SEMO,Redhawks,9.0,22.0,Ohio Valley Conference
+258,Seattle,SEA,Redhawks,23.0,14.0,Western Athletic Conference
+259,Seton Hall,HALL,Pirates,25.0,12.0,Big East Conference
+260,Siena,SIENA,Saints,4.0,28.0,Metro Atlantic Athletic Conference
+261,SIU-Edwardsville,SIUE,Cougars,17.0,16.0,Ohio Valley Conference
+262,SMU,SMU,Mustangs,20.0,13.0,Atlantic Coast Conference
+263,South Alabama,SBAMA,Jaguars,16.0,16.0,Sun Belt Conference
+264,South Carolina,SCAR,Gamecocks,26.0,8.0,Southeastern Conference
+265,South Dakota,SDAK,Coyotes,12.0,20.0,Summit League
+266,South Dakota State,SDSU,Jackrabbits,22.0,13.0,Summit League
+267,South Florida,USF,Bulls,25.0,8.0,American Athletic Conference
+268,Southern,SOU,Jaguars,18.0,14.0,Southwestern Athletic Conference
+269,Southern Illinois,SIU,Salukis,19.0,13.0,Missouri Valley Conference
+270,Southern Mississippi,USM,Golden Eagles,16.0,16.0,Sun Belt Conference
+271,Southern Utah,SUU,Thunderbirds,10.0,21.0,Western Athletic Conference
+272,St. Bonaventure,SBU,Bonnies,20.0,13.0,Atlantic 10 Conference
+273,St. Francis (BKN),SFBK,Terriers,14.0,16.0,Northeast Conference
+274,St. Francis (PA),SFU,Red Flash,8.0,22.0,Northeast Conference
+275,St. Francis BKN,SFBK,Terriers,5.0,5.0,Northeast Conference
+276,St. John's,SJU,Red Storm,20.0,13.0,Big East Conference
+277,St. Joseph's,JOES,Hawks,21.0,14.0,Atlantic 10 Conference
+278,St. Louis,STL,Billikens,13.0,20.0,Atlantic 10 Conference
+279,St. Mary's,SMC,Gaels,26.0,8.0,West Coast Conference
+280,St. Thomas - Minnesota,STMN,Tommies,19.0,14.0,Summit League
+281,Stanford,STAN,Cardinal ,14.0,18.0,Atlantic Coast Conference
+282,Stephen F. Austin,SFA,Lumberjacks,18.0,15.0,Southland Conference
+283,Stetson,STET,Hatters,22.0,13.0,ASUN Conference
+284,Stonehill,STNH,Skyhawks,4.0,27.0,Northeast Conference
+285,Stony Brook,STON,Seawolfs,20.0,15.0,Coastal Athletic Association
+286,Syracuse,SYR,Orange,20.0,12.0,Atlantic Coast Conference
+287,Tarleton,TAR,Texans,25.0,10.0,Western Athletic Conference
+288,TCU,TCU,Horned Frogs,21.0,13.0,Big 12 Conference
+289,Temple,TEM,Owls,16.0,20.0,American Athletic Conference
+290,Tennessee,TENN,Volunteers,27.0,9.0,Southeastern Conference
+291,Tennessee State,TNST,Tigers,18.0,15.0,Ohio Valley Conference
+292,Tennessee Tech,TNTC,Golden Eagles,10.0,21.0,Ohio Valley Conference
+293,Texas,TEX,Longhorns,21.0,13.0,Southeastern Conference
+294,Texas A&M,TXAM,Aggies,21.0,15.0,Southeastern Conference
+295,Texas A&M Commerce,AMCM,Lions,13.0,20.0,Southland Conference
+296,Texas A&M-CC,AMCC,Islanders,21.0,12.0,Southland Conference
+297,Texas Southern,TXSO,Tigers,16.0,17.0,Southwestern Athletic Conference
+298,Texas State,TXST,Bobcats,17.0,18.0,Sun Belt Conference
+299,Texas Tech,TTU,Red Raiders,23.0,11.0,Big 12 Conference
+300,The Citadel,CIT,Bulldogs,11.0,21.0,Southern Conference
+301,Toledo,TOL,Rockets,20.0,12.0,Mid-American Conference
+302,Towson,TOWS,Tigers,20.0,14.0,Coastal Athletic Association
+303,Troy,TROY,Trojans,20.0,12.0,Sun Belt Conference
+304,Tulane,TULN,Green Wave,14.0,17.0,American Athletic Conference
+305,Tulsa,TULS,Golden Hurricane,16.0,15.0,American Athletic Conference
+306,UAB,UAB,Blazers,23.0,12.0,American Athletic Conference
+307,UC Davis,UCD,Aggies,20.0,13.0,Big West Conference
+308,UC Riverside,UCR,Highlanders,16.0,18.0,Big West Conference
+309,UC San Diego,UCSD,Tritons,21.0,12.0,Big West Conference
+310,UC Santa Barbara,UCSB,Gauchos,16.0,15.0,Big West Conference
+311,UCF,UCF,Golden Knights,17.0,16.0,Big 12 Conference
+312,UCLA,UCLA,Bruins,16.0,17.0,Big Ten Conference
+313,UConn,CONN,Huskies,37.0,3.0,Big East Conference
+314,UIC,UIC,Flames,12.0,21.0,Missouri Valley Conference
+315,UL Monroe,ULM,Warhawks,11.0,19.0,Sun Belt Conference
+316,UMass Lowell,UML,River Hawks,22.0,10.0,America East Conference
+317,UMBC,UMBC,Retrievers,11.0,21.0,America East Conference
+318,UMKC,UMKC,Kangaroos,16.0,16.0,Summit League
+319,UNC Asheville,UNCA,Bulldogs,22.0,12.0,Big South Conference
+320,UNC Greensboro,UNCG,Spartans,21.0,11.0,Southern Conference
+321,UNC Wilmington,UNCW,Seahawks,21.0,10.0,Coastal Athletic Association
+322,UNLV,UNLV,Runnin Rebels,21.0,13.0,Mountain West Conference
+323,USC,USC,Trojans,15.0,18.0,Big Ten Conference
+324,USC Upstate,SCUS,Spartans,10.0,20.0,Big South Conference
+325,UT Arlington,UTA,Mavericks,20.0,14.0,Western Athletic Conference
+326,UT Martin,UTM,Skyhawks,21.0,11.0,Ohio Valley Conference
+327,UT Rio Grande Valley,RIO,Vaqueros,6.0,25.0,Southland Conference
+328,Utah,UTAH,Utes,22.0,15.0,Big 12 Conference
+329,Utah State,UTST,Aggies,28.0,7.0,Mountain West Conference
+330,Utah Tech,UTU,Trailblazers,11.0,20.0,Western Athletic Conference
+331,Utah Valley,UVU,Wolverines,16.0,16.0,Western Athletic Conference
+332,UTEP,UTEP,Miners,18.0,16.0,Conference USA
+333,UTSA,UTSA,Roadrunners,11.0,21.0,American Athletic Conference
+334,Valparaiso,VALP,Beacons,7.0,25.0,Missouri Valley Conference
+335,Vanderbilt,VAND,Commodores,9.0,23.0,Southeastern Conference
+336,VCU,VCU,Rams,24.0,14.0,Atlantic 10 Conference
+337,Vermont,UVM,Catamounts,28.0,7.0,America East Conference
+338,Villanova,NOVA,Wildcats,18.0,16.0,Big East Conference
+339,Virginia,UVA,Cavaliers,23.0,11.0,Atlantic Coast Conference
+340,Virginia Tech,VT,Hokies,19.0,15.0,Atlantic Coast Conference
+341,VMI,VMI,Keydets,4.0,28.0,Southern Conference
+342,Wagner,WAG,Seahawks,17.0,16.0,Northeast Conference
+343,Wake Forest,WAKE,Demon Deacons,21.0,14.0,Atlantic Coast Conference
+344,Washington,WASH,Huskies,17.0,15.0,Big Ten Conference
+345,Washington State,WSU,Cougars,25.0,10.0,West Coast Conference
+346,Weber State,WEB,Wildcats,20.0,12.0,Big Sky Conference
+347,West Georgia,WGA,Wolves,,,ASUN Conference
+348,West Virginia,WVU,Mountaineers,9.0,23.0,Big 12 Conference
+349,Western Carolina,WCU,Catamounts,22.0,10.0,Southern Conference
+350,Western Illinois,WIU,Leathernecks,21.0,12.0,Ohio Valley Conference
+351,Western Kentucky,WKU,Hilltoppers,22.0,12.0,Conference USA
+352,Western Michigan,WMU,Broncos,12.0,20.0,Mid-American Conference
+353,Wichita State,WICH,Shockers,15.0,19.0,American Athletic Conference
+354,William & Mary,W&M,Tribe,10.0,23.0,Coastal Athletic Association
+355,Winthrop,WIN,Eagles,17.0,15.0,Big South Conference
+356,Wisconsin,WIS,Badgers,22.0,14.0,Big Ten Conference
+357,Wofford,WOF,Terriers,17.0,15.0,Southern Conference
+358,Wright State,WRST,Raiders,18.0,14.0,Horizon League
+359,Wyoming,WYO,Cowboys,15.0,17.0,Mountain West Conference
+360,Xavier,XAV,Muskateers,16.0,18.0,Big East Conference
+361,Yale,YALE,Bulldogs,23.0,10.0,Ivy League
+362,Youngstown State,YSU,Penguins,22.0,10.0,Horizon League
